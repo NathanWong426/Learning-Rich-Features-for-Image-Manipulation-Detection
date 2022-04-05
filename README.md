@@ -2,7 +2,12 @@
 Code and synthetic dataset generation for the CVPR 2018 paper "Learning Rich Features for Image Manipulation Detection" 
 
 # Environment
-tensorflow 0.12.1, python3.5.2, cuda 8.0.44 cudnn 5.1
+```
+tensorflow==1.2.1
+python==3.5.2
+cuda==8.0.44 
+cudnn==5.1
+```
 
 Other packages please run:
 ```
