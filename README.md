@@ -1,4 +1,4 @@
-# RGB-N
+# Learning Rich Features for Image Manipulation Detection
 Code and synthetic dataset generation for the CVPR 2018 paper "Learning Rich Features for Image Manipulation Detection" 
 
 # Environment
